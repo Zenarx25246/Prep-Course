@@ -1,0 +1,15 @@
+//Conceptos JSI
+
+// Variables: Son la parte del código donde se da referencia a lo que se debe interpretar, asignando un valor ya sea numérico o
+ strign a dichas Variables.
+
+// Strings: Son el conjunto de carácteres que pueden interpretarse como palabras o series de letras o numeros dentro del código.
+
+//Funciones: Son las partes del código que pueden realizar acciones al interpretar las variables descritas en el argumento y dar
+respuesta al usuaio o no.
+
+//Declaraciones: Las declaraciones son la parte del código donde se impone una acción del código de acuerdo a ciertas condiciones
+que en el caso del "if" deben cumplirse para realizar una aacción.
+
+//Valores booleanos: Los valores booleanos nos ayudan a determinar si las condiciones aplicadas dentro del código representan un estado
+de verdad o mentira bajo cierta criterio lógico.
