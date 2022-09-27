@@ -1,0 +1,21 @@
+1.En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+*Variables: Son elementos  que almacenan un valor asignado por nosotros, o por nuestro código al ejecutarse, y pueden tomar valores de string,  carácteres o números. 
+*Strings: Son cadenas de texto que se definen como un tipo de dato dentro de nuestro código entre comillas.
+*Funciones:
+
+1)Argumentos: Es el dato que esperamos del usuario y que definimos al momento de crear una función agrgando el nombre del argumento dentro de los parentesis.
+2)Return: Es una declaración que nos permite mostrar el resultado que ha generado nuestro código.
+
+*Declaraciones: 
+
+1)if: Esta declaración nos permite ejecutar una parte del codigó si se cumplen la condición o condiciones establecidas.
+
+*Valores booleanos:
+
+1)true:es un valor predefinido que nos permite saber si algo se cumple de forma verdadera o definir por nuestra cuenta que algo cumpla bajo ciertas condiciones propias o lógicas.
+2)false: valor predefinido que nos indica que algo no se cumple bajo condiciones logicas o propias.
+
+
+
+
